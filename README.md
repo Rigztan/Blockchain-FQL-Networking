@@ -1,4 +1,4 @@
-This repository contains the datasets for the research worl: Federated Q-Learning-based Secure, Fault Tolerant, and Energy Efficient Framework for Ad hoc Networks. The framework integrates MicroChain-based trust management, Federated Q-learning for adaptive routing, and an Adaptive Cryptographic Engine (ACE) to provide a multilayer security solution for MANETs. Dataset Provided:
+This repository contains the datasets for the research work: Federated Q-Learning-based Secure, Fault Tolerant, and Energy Efficient Framework for Ad hoc Networks. The framework integrates MicroChain-based trust management, Federated Q-learning for adaptive routing, and an Adaptive Cryptographic Engine (ACE) to provide a multilayer security solution for MANETs. Dataset Provided:
 
 COMBINED_DATASET.csv
 
